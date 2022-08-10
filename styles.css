@@ -1,12 +1,51 @@
 body {
-    background-color: #FCF8E8;
+    background-color: #EFFFFD;
+    font-family: monospace;
+    font-weight: 600;
+    font-size: 15px;
+    text-align: justify;
 }
-h3 {
-    color: brown;
-}
+
 h2 {
     color: brown;
 }
+
 h1 {
     color: brown;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+button {
+    background-color: beige;
+    transition: 1s;
+    border: thin solid;
+}
+
+button:hover {
+    background-color: white;
+}
+
+button:active {
+    background-color: white;
+}
+
+div>span {
+    font-size: 18px;
+}
+
+th {
+    background-color: #515459;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
 }
