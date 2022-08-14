@@ -1,5 +1,5 @@
 body {
-    background-color: #EFFFFD;
+    background-color: #F9F9F9;
     font-family: monospace;
     font-weight: 600;
     font-size: 15px;
@@ -14,7 +14,7 @@ h1 {
     color: brown;
     text-align: center;
     text-transform: uppercase;
-    font-family: 'Alfa Slab One', cursive;
+    font-family: sans-serif;
 }
 
 button {
