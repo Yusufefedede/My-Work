@@ -31,10 +31,6 @@ button:active {
     background-color: white;
 }
 
-div>span {
-    font-size: 18px;
-}
-
 th {
     background-color: #515459;
     color: white;
@@ -48,4 +44,11 @@ td {
 table {
     border-collapse: collapse;
     text-align: center;
+}
+span {
+    font-size: 22px;
+}
+.coffe {
+    width: 100%;
+
 }
