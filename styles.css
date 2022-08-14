@@ -45,10 +45,6 @@ table {
     border-collapse: collapse;
     text-align: center;
 }
-.coffe {
-    width: 100%;
-    height: 400px;
-}
 .menu a:hover {
     text-decoration: none;
 }
